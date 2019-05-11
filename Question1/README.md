@@ -6,6 +6,7 @@ Question 1:
 
 >  Use  incomplete Makefile given , correct the file, build and generate the tar.
 
+https://github.com/nevilchandran/Makefile_training/blob/master/Question1/Makefile
 https://github.com/nevilchandran/Makefile_training/blob/master/Question1/Makefile_Qstn1.jpg
 
 > Once Makefile is ready, upload to your github repo and share the path.
