@@ -8,3 +8,4 @@ Question 1:
 
 https://github.com/nevilchandran/Makefile_training/blob/master/Question1/Makefile_Qstn1.jpg
 
+#Once Makefile is ready, upload to your github repo and share the path.
