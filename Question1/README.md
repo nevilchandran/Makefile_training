@@ -2,7 +2,7 @@
 
 Question 1:
 
-> Generate 10 text files 1.txt and so on  in src directory, copy all files inside src to dest directory and create  a tar from it.
+> Generate 10 text files 1.txt and so on  in src directory, add respective filename in each file, copy all files inside src to dest directory and create  a tar from it.
 
 >  Use  incomplete Makefile given , correct the file, build and generate the tar.
 
